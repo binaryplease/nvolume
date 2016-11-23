@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/binaryplease/nvolume.svg?branch=master)](https://travis-ci.org/binaryplease/nvolume)
 # nvolume
 --
     import "gitlab.com/binaryplease/NVolume"

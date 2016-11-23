@@ -2,7 +2,7 @@ package main
 
 import (
 	_ "fmt"
-	"gitlab.com/binaryplease/nvolume"
+	"github.com/binaryplease/nvolume"
 )
 
 func main() {

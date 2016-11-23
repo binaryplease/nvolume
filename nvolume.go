@@ -1,8 +1,6 @@
 package nvolume
 
-import (
-//"fmt"
-)
+import ()
 
 //NVolume is a type for multi-dimensional volumes
 type NVolume struct {
